@@ -1,0 +1,7 @@
+<movable-area class="father-size">
+
+    <movable-view class='e size' direction="all" inertia="true" out-of-bounds="true" x="50" y="100" damping="100" friction="100"  bindchange="doChange">
+    
+    </movable-view>
+
+</movable-area>

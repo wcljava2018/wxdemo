@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<scroll-view scroll-y="true" style='height:300rpx;' bindscrolltoupper="scrolltoupper" bindscrolltolower="scrolltolower" upper-threshold="0" lower-threshold="0" scroll-top="250" enable-back-to-top="true">
+
+    <view class='a size'>a</view>
+    <view class='b size'>b</view>
+    <view class='c size'>c</view>
+    <view class='d size'>d</view>
+    <view class='e size'>e</view>
+
+</scroll-view>

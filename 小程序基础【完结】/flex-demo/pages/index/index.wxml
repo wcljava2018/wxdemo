@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+
+    <view class='no1 length'>No.1</view>
+    <view class='no2 length'>No.2</view>
+    <view class='no3 length'>No.3</view>
+    <view class='no4 length'>No.4</view>
+    <view class='no5 length'>No.5</view>
+
+</view>

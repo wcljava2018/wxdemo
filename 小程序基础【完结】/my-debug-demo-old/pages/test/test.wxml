@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+    <text id='txt-left' class='txt-css' style="color:{{color}};">{{mytxt}}</text>
+</view>

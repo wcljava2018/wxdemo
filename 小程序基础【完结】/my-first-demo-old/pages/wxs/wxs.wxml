@@ -1,0 +1,21 @@
+<include src="../wxs/head.wxml"/>
+<view class="container">
+    
+    <wxs src="../wxs/module.wxs" module="item"></wxs>
+    <view>{{item.name}}</view>
+    <view>{{item.age}}</view>
+    <view>{{item.method("这是一个参数")}}</view>
+
+    <!-- <view>{{item.name}}</view>
+    <view>{{item.age}}</view>
+    <view>{{item.method("这是一个参数")}}</view>
+
+    <view>{{item.name}}</view>
+    <view>{{item.age}}</view>
+    <view>{{item.method("这是一个参数")}}</view> -->
+
+    <import src="../temps/temps.wxml"/>
+    <template is="mytemp" data="{{...person,msg,name:'imooc', age:'18岁'}}"/>
+</view>
+<include src="../wxs/foot.wxml"/>
+

@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    flex-direction:row;
+    /* flex-wrap: wrap;  */
+    justify-content: space-around;
+}
+
+.length{
+    width: 120rpx;
+    height: 120rpx;
+}
+
+.no1{
+    background-color: red;
+    order: 2;
+    flex: 2;
+}
+
+.no2{
+    background-color: yellow;
+    order: 1;
+    flex: 3;
+}
+
+.no3{
+    background-color: blue;
+    order: 3;
+    flex: 1;
+}
+
+.no4{
+    background-color: orange;
+    order: 4;
+    flex: 1;
+}
+
+.no5{
+    background-color: green;
+    order: 5;
+    flex: 1;
+}

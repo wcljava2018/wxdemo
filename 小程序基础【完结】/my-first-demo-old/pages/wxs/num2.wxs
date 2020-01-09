@@ -1,0 +1,12 @@
+var name = "imooc";
+var age = 28;
+
+var method = function(obj) {
+    return obj;
+}
+
+module.exports = {
+    name: name,
+    age: age,
+    method: method
+}

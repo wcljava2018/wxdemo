@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <view>
+    <text>{{sayhello}}</text>
+  </view>
+</view>

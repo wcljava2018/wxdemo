@@ -1,0 +1,1 @@
+<video src="{{src}}" initial-time="90" duration="120" controls="{{true}}" danmu-list="{{list}}" danmu-btn="{{true}}" enable-danmu="{{false}}" page-gesture="{{true}}" show-progress="{{true}}" style="width:250px;" show-center-play-btn="{{false}}"></video>

@@ -1,0 +1,22 @@
+{
+    "pages": [
+        "pages/videos/videos",
+        "pages/requestInterface/requestInterface",
+        "pages/wxs/wxs",
+        "pages/temps/temps",
+        "pages/judgeIfElse/judgeIfElse",
+        "pages/listWXKey/listWXKey",
+        "pages/listFor/listFor",
+        "pages/dataBind/dataBind",
+        "pages/events/events",
+        "pages/test/test",
+        "pages/index/index"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#000",
+        "navigationBarTitleText": "第一个demo",
+        "navigationBarTextStyle": "white"
+    },
+    "debug":true
+}

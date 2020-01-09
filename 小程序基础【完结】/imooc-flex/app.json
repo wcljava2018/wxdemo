@@ -1,0 +1,32 @@
+{
+  "pages":[
+      "pages/scrollView/scrollView",
+      "pages/index/index",
+    "pages/view/view",
+      "pages/images/images",
+      "pages/nav/page1/page1",
+      "pages/nav/page2/page2",
+      "pages/nav/page3/page3",
+      "pages/form/formtest/formtest",
+      "pages/form/swich/swich",
+      "pages/form/slider/slider",
+      "pages/form/radios/radios",
+      "pages/form/pickerview/pickerview",
+      "pages/form/pickers/pickers",
+      "pages/form/myform/myform",
+      "pages/form/checkbox/checkbox",
+      "pages/form/buttons/buttons",
+      "pages/basic/basic",
+      "pages/movable/movable",
+      "pages/swiper/swiper"
+      
+       
+        
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

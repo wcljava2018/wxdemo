@@ -1,0 +1,12 @@
+<view class="container">
+    <view id='msg - {{mymsgid}}'>{{msg}}</view>
+    <checkbox checked='{{flag}}'></checkbox>
+    <checkbox checked='{{unflag}}'></checkbox>
+    <view>{{ a + b == 3 ? '计算结果是3' : '计算结果不是3'}}</view>
+    <view>{{ a + b }} + {{c}} + {{b}}</view>
+    <view>{{ a + b + c*b}}</view>
+    <view>{{ '信息内容：' + msg}}</view>
+        
+</view>
+
+

@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/pageinclude/pageinclude",
+    "pages/wxkey/wxkey",
+    "pages/listFor/listFor",
+    "pages/dataBind/dataBind",
+    "pages/test/test",
+    "pages/index/index",
+    "pages/imooc/imooctest"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "第一个demo",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/imooc/imooctest",
+        "text": "慕课网"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}

@@ -1,0 +1,7 @@
+<button>按钮</button>
+
+<button size="mini" type="default">按钮1</button>
+<button size="mini" type="primary">按钮2</button>
+<button size="mini" type="warn" plain="{{true}}">按钮3</button>
+<button size="mini" type="warn" disabled='{{true}}' loading="{{true}}">按钮4</button>
+

@@ -1,0 +1,63 @@
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+
+<input value="学习小程序实战" maxlength='10' cursor-spacing="300" confirm-type="next" confirm-hold="{{true}}" bindinput='inputEvent' bindfocus='focusEvent' bindblur='blurEvent' bindconfirm='confirmEvent'></input>
+<input value="number" type='number' focus="{{true}}" cursor="3" selection-start="2" selection-end='4' adjust-position="{{false}}"></input>
+<input value="idcard" type='idcard'></input>
+<input value="digit" type='digit'></input>
+
+密码框：<input value="" password='{{true}}'></input>
+
+placeholder：<input value="" placeholder='请输入你的用户名' placeholder-style="color:green;"></input>
+placeholder：<input value="" placeholder='请输入你的用户名' placeholder-class='placeholder'></input>
+
+
+
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>
+<view>123456</view>

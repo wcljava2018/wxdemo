@@ -1,0 +1,17 @@
+{
+  "pages":[
+      "pages/camera/camera",
+      "pages/picker/picker",
+      "pages/inputs/inputs",
+      "pages/movable/movable",
+    "pages/scrollView/scrollView",
+    "pages/test/test",
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "第一个demo",
+    "navigationBarTextStyle":"white"
+  }
+}

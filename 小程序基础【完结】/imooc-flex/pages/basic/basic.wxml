@@ -1,0 +1,32 @@
+<icon type="success" size="66" color="blue"></icon>
+<icon type="success_no_circle" size="66"></icon>
+<icon type="info" size="66"></icon>
+<icon type="warn" size="66"></icon>
+<icon type="waiting" size="66"></icon>
+<icon type="cancel" size="66"></icon>
+<icon type="download" size="66"></icon>
+<icon type="search" size="66"></icon>
+<icon type="clear" size="66"></icon>
+
+
+<view>
+    <view>这是一个view文本内容</view>
+    <text selectable='{{true}}'>这是一段\ttext\n文本内容</text>
+</view>
+
+<view>
+    <text space='{{false}}'>space       空格       内容</text>
+</view>
+
+<view>
+    <text space='{{false}}' decode='{{true}}'>&nbsp; &lt; &gt; &amp; &apos; &ensp; &emsp;</text>
+</view>
+
+
+<rich-text nodes="{{mycontent}}"></rich-text>
+<rich-text nodes="{{mycontent2}}"></rich-text>
+
+<progress percent="35" show-info="{{true}}" stroke-width="20" activeColor="red" backgroundColor="blue" active="{{true}}"></progress>
+
+<progress percent="{{mypercent}}" show-info="{{true}}" stroke-width="20" active="{{true}}" active-mode="forwards"></progress>
+<view bindtap='addPercent'>addPercent</view>

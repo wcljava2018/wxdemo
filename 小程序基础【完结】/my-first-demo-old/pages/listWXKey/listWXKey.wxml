@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+    <block wx:for="{{mylist}}" wx:key="id">
+        <checkbox id='{{item.id}}'> {{item.name}} </checkbox>
+    </block>
+    <view bindtap='addItem'>添加</view>
+</view>
